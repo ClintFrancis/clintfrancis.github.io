@@ -11,8 +11,8 @@ buttons:
       url: '#'
       external_url: false
     - icon: github
-      content: Button with icon
-      url: '#'
+      content: Github
+      url: 'https://github.com/ClintFrancis/'
       external_url: true
 
 # Author box
