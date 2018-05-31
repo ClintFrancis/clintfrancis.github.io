@@ -16,9 +16,9 @@ doks:
     footer:
         content:
             logo:
-                text: Project name
+                text: Intelligent Experiences
                 image:
-            copyright: Copyright &copy; 2017. - Project name <br>All rights reserved.
+            copyright: Copyright &copy; 2018. - Clint Francis <br>All rights reserved.
         social_list:
             - network_name: twitter
               profile_url: 'https://twitter.com/clint_francis'
