@@ -4,7 +4,7 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Project name
+title: Intelligent Experiences
 description: Project description
 buttons:
     - content: Button
