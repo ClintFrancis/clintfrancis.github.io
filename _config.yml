@@ -4,7 +4,7 @@ doks:
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
-            text: Project name
+            text: Intelligent Experiences
             image:
         nav:
             - item_name: Item 1
@@ -20,18 +20,14 @@ doks:
                 image:
             copyright: Copyright &copy; 2017. - Project name <br>All rights reserved.
         social_list:
-            - network_name: facebook
-              profile_url: '#'
             - network_name: twitter
-              profile_url: '#'
+              profile_url: 'https://twitter.com/clint_francis'
             - network_name: instagram
-              profile_url: '#'
-            - network_name: youtube
-              profile_url: '#'
+              profile_url: 'https://www.instagram.com/isol/'
     google_analytics:
-        tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
+        tracking_code: UA-97901876-1 # Add your Google Analytics tracking code to activate Google Analytics
     comments:
-        disqus_forum_shortname: # Add your disqus forum shortname to activate comments
+        disqus_forum_shortname: clintfrancis-github-io # Add your disqus forum shortname to activate comments
 
 # SASS settings
 sass:
