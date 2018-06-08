@@ -1,3 +1,9 @@
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
 # Theme settings
 doks:
     baseurl:

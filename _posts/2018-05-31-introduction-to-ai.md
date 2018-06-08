@@ -1,12 +1,12 @@
 ---
 # Page settings
 layout: default
-keywords: ai
+keywords: [ai]
 comments: false
 
 # Hero section
 title: An Introduction to AI
-description: A brief primer on what AI is and where its going
+description: What is AI and where is it going?
 
 # Author box
 author:
@@ -20,12 +20,9 @@ micro_nav: true
 
 # Page navigation
 page_nav:
-    prev:
-        content: Previous page
-        url: '#'
     next:
         content: Next page
-        url: '#'
+        url: '/ai-concepts-terms'
 ---
 
 ## The Second Machine Age
@@ -47,7 +44,7 @@ AI-infused apps, or "smart apps" are growing in popularity among users as they c
 
 The term “artificial intelligence” is often misused. To avoid any confusion over what AI means, it’s worth clarifying its scope and definition.
 
->  _AI is Intelligence demonstrated by machines, in contrast to the natural intelligence (NI) displayed by humans and other animals. In computer science AI research is defined as the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. Colloquially, the term "artificial intelligence" is applied when a machine mimics "cognitive" functions that humans associate with other human minds, such as "learning" and "problem solving"_.
+>  _AI is Intelligence demonstrated by machines, in contrast to the natural intelligence (NI) displayed by humans and other animals. In computer science AI research is defined as the study of "intelligent agents": any device that perceives its environment and takes actions that maximise its chance of successfully achieving its goals. Colloquially, the term "artificial intelligence" is applied when a machine mimics "cognitive" functions that humans associate with other human minds, such as "learning" and "problem solving"_.
 
 <sup>[Artificial intelligence | Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence)
 </sup>
@@ -63,11 +60,11 @@ Machine Learning is the ability for computers to learn without being explicitly 
 #### Data Science
 Data Science is an interdisciplinary field about scientific methods, processes and systems to extract knowledge or insights from data in various forms, either structured or unstructured. Data Science unifies concepts from statistics, data analysis, and machine learning in order to understand and analyse events.
 
-// TODO summarise this section and the AI breakdown going forward
+Throughout this blog I'll exploring concepts and examples around both Cognitive Computing and Machine Learning. And while I may touch a bit on Data Science its not going to be an area of focus. 
 
 ## AI Adoption
 
-AI has to potential to completely revolutionise existing industries as we know them today, but whats happening right now? Different industries have found their own applications for AI, here are some examples illustrating how AI is currently being adopted and its many different use cases.
+So the claim is that AI has the potential to completely revolutionise existing industries as we know them today, but what's happening right now? Given the breadth of AI, its no surprise to find that different industries have found their own applications for the technology. Below are some examples that illustrate how AI is currently being adopted and its many different use cases:
 
 #### Banking and Finance
 * Banks and financial institutions are using chatbots to improve customer experience.
@@ -89,7 +86,7 @@ AI has to potential to completely revolutionise existing industries as we know t
 #### Media
 * Synthesise intelligent summaries of content within any vertical.
 * Ingest trends from social networks and collate large stories faster than humans can discover them.
-* Dynamically monitor advertising campaigns to allow publishers understand how their branded content impacts audiences in realtime.
+* Dynamically monitor advertising campaigns to provide publishers insight on how their branded content impacts audiences in realtime.
 * Contextually relevancy news for individuals served at the right time and in the right place.
 
 #### Healthcare
@@ -99,7 +96,7 @@ AI has to potential to completely revolutionise existing industries as we know t
 * Drug research and discovery.
 
 #### Legal
-* Virtual assistants that sift through databases of legal documents and return an answer paired with a confidence rating.
+* Virtual assistants that search through vast databases of legal documents and return an answer paired with a confidence rating.
 * Legal document generation and review.
 * Chatbots that appeal existing fines through a series of simple questions. 
 
@@ -109,9 +106,10 @@ AI has to potential to completely revolutionise existing industries as we know t
 * Alerting commuters where they’re most likely to find a seat, depending on the location and direction of their specific journey.
 
 #### Field Services
-* Combining AI and IoT (Internet of Things) to predict service and maintenance needs based on historical data, enabling service to be provided before the machine fails.
-* Dynamic scheduling and prioritising for field workers based on  their location, time, and other parameters.
+* Combining AI and IoT (Internet of Things) to predict service and maintenance needs based on historical data, this way service can be provided before the machine fails.
+* Dynamic scheduling and prioritising for field workers based on their location, time, and other parameters.
 * Virtual assistants for hands free operation.
 
+## Summary
 
-
+If you're interested in how AI is likely to impact your industry, it will be critical to keep an eye on currently emerging trends. Advances in AI have been moving at a rapid pace, and its only over the last few years that companies outside of the tech sphere have started to invest in earnest. Whether you're starting out in this space, or already on your way, there's a world of new opportunities for both businesses and individuals alike - the exciting part is seeing what happens next.
