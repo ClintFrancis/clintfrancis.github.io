@@ -32,7 +32,7 @@ page_nav:
 
 There are a lot of the concepts and terms in the field of AI can be intimidating for newcomers to the space. This page will be maintained as an ever growing glossary of terms and 'things to know'. To help break things down I've grouped the entries into three categories [*"Things you should know"*](#ThingsYouShouldKnow), [*"Going deeper"*](#GoingDeeper) and [*"Down the rabbit hole"*](#DownTheRabbitHole).
 
-## <a name="ThingsYouShouldKnow">Things You Should Know
+## <a name="ThingsYouShouldKnow"></a>Things You Should Know
 
 #### <a name="Algorithm"></a>Algorithm
 Generally speaking, the most important part of AI is the Algorithm. An Algorithm is a mathematical formula or set of commands that dictate how a process should be applied when solving a problem. Alternatively it could be described as "a set of rules that precisely defines a sequence of operations".
