@@ -22,10 +22,7 @@ micro_nav: true
 page_nav:
     prev:
         content: Previous page
-        url: '#'
-    next:
-        content: Next page
-        url: '#'
+        url: '/introduction-to-ai'
 ---
 
 ## Concepts and Terms
@@ -122,7 +119,7 @@ Each layer contains multiple connected 'artificial neurons' that allow signals t
 
  Artificial Neural Networks are often used in cognitive computing (Computer vision, speech recognition, machine translation, etc).
 
-#### <a name="Heuristics">Heuristics
+#### <a name="Heuristics"></a>Heuristics
 
 A heuristic is a technique designed for solving a problem quickly when classic methods are too slow, or for finding an approximate solution when classic methods fail to find any exact solution. Heuristic methods are not guaranteed to find an optimal solution to the problem but will provide a satisfactory outcome most of the time.
 
@@ -138,7 +135,7 @@ A decision tree is a flowchart like structure that guides a decision process fro
 
 Main advantage of decision trees is that they are a 'white-box' method. This means that we can easily explain their decisions, in contrast to the [Neural Networks](#ArtificialNeuralNetwork) whose complexity is usually too high to easily understand (see [Black Box](#BlackBox)). 
 
-#### <a name="GPU"> GPU
+#### <a name="GPU"></a>GPU
 
 A graphics processing unit (GPU) is type of specialised computer chip with a highly parallel structure. GPU's are more efficient than general-purpose CPUs for algorithms where the processing of large blocks of data is done in parallel. Originally created to offload graphics processing from a computers CPU, GPU's are increasingly being used for processing algorithms used in technologies such as [Machine Learning](#MachineLearning) and BlockChain. 
 
