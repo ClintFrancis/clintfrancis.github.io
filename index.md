@@ -9,7 +9,7 @@ description: A blog dedicated to exploring intelligent experiences using Bots an
 buttons:
     - icon: github
       content: Projects
-      url: 'https://github.com/ClintFrancis/'
+      url: 'https://github.com/ClintFrancis/IntelligentExperiences'
       external_url: true
 
 # Author box

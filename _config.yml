@@ -6,30 +6,32 @@ defaults:
 
 # Theme settings
 doks:
-    baseurl:
+    baseurl: 'http://www.intelligentexperiences.net'
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
-            text: Intelligent Experiences
-            image:
+            text: 
+            image: logo.png
         nav:
-            - item_name: Item 1
+            - item_name: Articles
               item_url: '#'
-            - item_name: Item 2
+            - item_name: Projects
               item_url: '#'
-            - item_name: Item 3
+            - item_name: About
               item_url: '#'
     footer:
         content:
             logo:
-                text: Intelligent Experiences
-                image:
-            copyright: Copyright &copy; 2018. - Clint Francis <br>All rights reserved.
+                text: 
+                image: logo-footer.png
+            copyright: Copyright &copy; 2018. Clint Francis.<br/>I work at Microsoft, but opinions are mine.
         social_list:
             - network_name: twitter
               profile_url: 'https://twitter.com/clint_francis'
             - network_name: instagram
               profile_url: 'https://www.instagram.com/isol/'
+            - network_name: github
+              profile_url: 'https://github.com/ClintFrancis/IntelligentExperiences'
     google_analytics:
         tracking_code: UA-97901876-1 # Add your Google Analytics tracking code to activate Google Analytics
     comments:
