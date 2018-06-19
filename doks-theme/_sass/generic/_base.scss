@@ -108,6 +108,21 @@ img {
 	vertical-align: top;
 }
 
+.image-wrapper .image-caption{
+	text-align: center;
+	font-size: $font-size-small;
+	color: $color-gray;
+}
+
+.image-wrapper img {
+	display: block;
+	background-color: #9e21ff;
+	background-image: linear-gradient(135deg, #522280 0%, #BF255B 100%, #BF255B 100%);
+	box-shadow: 0 3px 47px rgba(0, 0, 0, 0.2);
+	transform-style: preserve-3d;
+	transform: perspective(300px);
+}
+
 /* ----- Horizontal rules ----- */
 hr {
 	border: 0;

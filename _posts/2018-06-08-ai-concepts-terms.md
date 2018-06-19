@@ -115,8 +115,8 @@ An Artificial Neural Network is computer model intended to simulate the way huma
 
 {% include image.html
             img="assets/img/DeepLearningDiagram.png"
-            title="title for image"
-            caption="caption for image" %}
+            title="Artificial Neural Network"
+            caption="Artificial Neural Network" %}
 
 Neural networks are made up from multiple 'layers'. They have both input and output layers but also contain (in most cases) hidden layers that transform the inputs into something that the output layer can use.
 
