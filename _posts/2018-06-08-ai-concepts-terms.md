@@ -113,6 +113,11 @@ Weak AI is artificial intelligence that is focused on one narrow task. Currently
 
 An Artificial Neural Network is computer model intended to simulate the way humans learn. Neural Networks "learn" by considering examples, generally without being programmed with any specific rules. They excel at finding patterns which are far too complex for human programmers to implement.
 
+{% include image.html
+            img="assets/img/DeepLearningDiagram.png"
+            title="title for image"
+            caption="caption for image" %}
+
 Neural networks are made up from multiple 'layers'. They have both input and output layers but also contain (in most cases) hidden layers that transform the inputs into something that the output layer can use.
 
 Each layer contains multiple connected 'artificial neurons' that allow signals to pass through in a single direction. When a neuron receives a signal it process it and then forwards the signal on to additional neurons connected to it. The connections between neurons are called 'edges'. Each of the neurons and edges typically have a [weight](#Weights) that adjusts as learning proceeds. Its this weighting that helps to determine the final output from the Neural Network. 
