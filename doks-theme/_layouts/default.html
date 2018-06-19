@@ -24,6 +24,19 @@
 											{{ page.page_nav.prev.content }}
 										</a>
 									{% endif %}
+									{% for button in page.buttons %}
+										{% if button.external_url == true %}
+										<a href="{{ button.url }}" class="btn btn--dark btn--rounded btn--w-icon">
+											{% if button.icon %}<i class="icon icon--{{ button.icon }}"></i>{% endif %}
+											{{ button.content }}
+										</a>
+										{% else %}
+										<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ button.url }}" class="btn btn--dark btn--rounded btn--w-icon">
+											{% if button.icon %}<i class="icon icon--{{ button.icon }}"></i>{% endif %}
+											{{ button.content }}
+										</a>
+										{% endif %}
+									{% endfor %}
 									{% if page.page_nav.next.content and page.page_nav.next.url %}
 										<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ page.page_nav.next.url }}" class="btn btn--dark btn--rounded btn--w-icon">
 											<i class="icon icon--arrow-right"></i>

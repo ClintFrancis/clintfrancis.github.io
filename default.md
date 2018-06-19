@@ -15,6 +15,13 @@ author:
     external_url: true
     description: Author description
 
+# Project buttons
+buttons:
+    - icon: github
+      content: Source
+      url: 'https://github.com/ClintFrancis/IntelligentExperiences'
+      external_url: true
+
 # Micro navigation
 micro_nav: true
 

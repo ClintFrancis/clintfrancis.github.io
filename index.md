@@ -6,11 +6,6 @@ keywords: bots, ai, microsoft, cognitive services, bot framework, intelligent ex
 # Hero section
 title: Intelligent Experiences
 description: A blog dedicated to exploring intelligent experiences using Bots and AI.
-buttons:
-    - icon: github
-      content: Projects
-      url: 'https://github.com/ClintFrancis/IntelligentExperiences'
-      external_url: true
 
 # Author box
 author:
